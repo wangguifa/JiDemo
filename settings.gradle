@@ -1,0 +1,3 @@
+rootProject.name = "JiDemo"
+include ':app'
+include ':jpush'
